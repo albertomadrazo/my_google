@@ -1,0 +1,764 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"configMap",
+				"configMap"
+			],
+			[
+				"jqu",
+				"jqueryMap"
+			],
+			[
+				"name",
+				"user_name"
+			],
+			[
+				"logout",
+				"spa-logout"
+			],
+			[
+				"pople",
+				"people_db"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"jq",
+				"jqueryMap"
+			],
+			[
+				"chat_re",
+				"chat_retract_time"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Direcot",
+				"DirectorForm"
+			],
+			[
+				"Titl",
+				"TitleForm"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"mo",
+				"mouseover"
+			],
+			[
+				"clien",
+				"clientHeight"
+			],
+			[
+				"TOc",
+				"TOCLevel2"
+			],
+			[
+				"TOCL",
+				"TOCLevel1"
+			],
+			[
+				"insert",
+				"insertBefore"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"previ",
+				"previousElementSibling"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"start",
+				"startGameAnimation"
+			],
+			[
+				"board",
+				"Board"
+			],
+			[
+				"DRAW",
+				"draw"
+			],
+			[
+				"con",
+				"context_dict"
+			],
+			[
+				"context",
+				"context"
+			],
+			[
+				"this",
+				"thisMonthsInterest"
+			],
+			[
+				"str",
+				"stringToInsert"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"words",
+				"countWords"
+			],
+			[
+				"encryp",
+				"encryptedMsgs"
+			],
+			[
+				"lis",
+				"listMessages"
+			],
+			[
+				"messa",
+				"messageToXOR"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"lea",
+				"leapYearFlag"
+			],
+			[
+				"quadra",
+				"quadraticEcuation"
+			],
+			[
+				"talb",
+				"tableContent"
+			],
+			[
+				"table",
+				"tableContent"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"monster",
+				"capturedMonsters"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"date_defa",
+				"date_default_timezone_set"
+			],
+			[
+				"timezone",
+				"timezone_abbreviations_list"
+			],
+			[
+				"signed",
+				"signed_in"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "search.html",
+			"settings":
+			{
+				"buffer_size": 3368,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ori",
+				"Origami: Create Pane Below"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 439.0
+	},
+	"console":
+	{
+		"height": 49.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"Install Package",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alberto/Desktop/web/odin/migoogle"
+	],
+	"file_history":
+	[
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/controllers/tags_controller.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/tags/index.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/articles/show.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/assets/stylesheets/styles.css.scss",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/Gemfile",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/models/article.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/helpers/articles_helper.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/articles/_form.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/db/migrate/20150731182722_add_paperclip_fields_to_article.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/tags/show.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/config/routes.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/models/tag.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/articles/new.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/articles/index.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/articles/_comment.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/controllers/comments_controller.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/controllers/articles_controller.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/comments/_form.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/articles/edit.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/views/layouts/application.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/old/rails_blogger/app/controllers/articles_controller.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/app/assets/stylesheets/screen.css",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/db/migrate/20150729205019_create_articles.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/rails_blogger/app/models/tag.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blogger/db/migrate/20150723175131_create_articles.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blog/db/migrate/20150722175207_create_comments.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blog/app/controllers/comments_controller.rb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blog/app/views/welcome/index.html.erb",
+		"/home/alberto/Desktop/web/odin/ruby/rails/blog/app/views/articles/new.html",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.data.js-old",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.data.js",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.util_b.js-old",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.util_b.js",
+		"/home/alberto/Desktop/web/javascript/spa/ch05_06/6.7/spa.html",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.avtr.js-old",
+		"/home/alberto/Desktop/web/javascript/spa/ch05_06/6.7/js/spa.js",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.shell.js",
+		"/home/alberto/Desktop/web/javascript/spa/ch05_06/6.7/js/spa.model.js",
+		"/home/alberto/Desktop/web/javascript/spa/ch05_06/6.7/js/spa.chat.js",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.avtr.js",
+		"/home/alberto/Desktop/web/javascript/spa/6/css/spa.avtr.css",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.util.js",
+		"/home/alberto/Desktop/web/javascript/spa/6/js/spa.model.js",
+		"/home/alberto/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/alberto/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/alberto/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/alberto/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/alberto/Desktop/C/github/2048.c/2048.c",
+		"/home/alberto/Desktop/C/Mini Project in C Department Store Management System/department store management system.c",
+		"/home/alberto/Desktop/web/spa/5/js/spa.model.js",
+		"/home/alberto/Desktop/web/spa/5/js/spa.fake.js",
+		"/home/alberto/Desktop/web/spa/5/css/spa.shell.css",
+		"/home/alberto/Desktop/web/spa/5/js/spa.shell.js",
+		"/home/alberto/Desktop/web/spa/5/js/spa.js",
+		"/home/alberto/Desktop/web/spa/5/js/spa.util_b.js",
+		"/home/alberto/Desktop/web/spa/5/spa.html",
+		"/home/alberto/Desktop/web/spa/5/js/spa.data.js",
+		"/home/alberto/Desktop/web/spa/5/js/spa.chat.js",
+		"/home/alberto/Desktop/web/spa/old/6/js/spa.model.js",
+		"/home/alberto/Desktop/web/spa/5/js/timeout.html",
+		"/home/alberto/Desktop/web/spa/5/css/spa.avtr.css",
+		"/home/alberto/Desktop/web/spa/5/css/spa.chat.css",
+		"/home/alberto/Desktop/web/spa/5/css/spa.css",
+		"/home/alberto/Desktop/web/spa/5/js/spa.util.js",
+		"/home/alberto/Desktop/web/spa/4/layout.html",
+		"/home/alberto/Desktop/web/spa/js/jq/jquery.uriAnchor.js",
+		"/home/alberto/Desktop/web/spa/js/spa-shell.js",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/pelicula.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/base.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/header.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/nueva.html",
+		"/home/alberto/Desktop/web/index.html",
+		"/home/alberto/Desktop/web/pruebas2.html",
+		"/home/alberto/Desktop/web/flanagan/15-9.html",
+		"/home/alberto/Desktop/web/flanagan/13-5.html",
+		"/home/alberto/Desktop/web/flanagan/15-8.html",
+		"/home/alberto/Desktop/web/flanagan/tests.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/urls.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/admin.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/populate_califas.py",
+		"/home/alberto/Desktop/web/flanagan/15-7.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/head.html",
+		"/home/alberto/Desktop/web/flanagan/15-6.html",
+		"/home/alberto/Desktop/web/flanagan/15-5.html",
+		"/home/alberto/Desktop/web/flanagan/15-4.html",
+		"/home/alberto/Desktop/web/flanagan/15-3.html",
+		"/home/alberto/Desktop/web/flanagan/15-2.html",
+		"/home/alberto/Desktop/web/flanagan/15-1.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/cinesnub/settings.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/models.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/cinesnub/urls.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/static/css/mainstyle.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/index.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/views.py",
+		"/home/alberto/Desktop/web/portfolio_animator/style.js",
+		"/home/alberto/Desktop/web/portfolio_animator/style.css",
+		"/home/alberto/Desktop/Python/Pygame/anew/memorypuzzle.py",
+		"/home/alberto/Desktop/web/css/positioning-10steps.html",
+		"/home/alberto/Desktop/web/portfolio_animator/index.html",
+		"/home/alberto/Desktop/web/portfolio_animator/utopia.html",
+		"/home/alberto/Desktop/web/css/9-float_columns_with_clear.css",
+		"/home/alberto/Desktop/web/style.css",
+		"/home/alberto/Desktop/web/css/8-float_columns_with_clear.css",
+		"/home/alberto/Desktop/web/django/cinesnub/califas/urls.py",
+		"/home/alberto/Desktop/web/django/cinesnub/templates/califas/index.html",
+		"/home/alberto/Desktop/web/django/cinesnub/califas/models.py",
+		"/home/alberto/Desktop/web/django/cinesnub/static/css/main.css",
+		"/home/alberto/Desktop/web/django/cinesnub/cinesnub/urls.py",
+		"/home/alberto/Desktop/web/django/cinesnub/cinesnub/settings.py",
+		"/home/alberto/Desktop/web/django/cinesnub/califas/views.py",
+		"/home/alberto/Desktop/web/flanagan/8-3.html",
+		"/home/alberto/Desktop/web/flanagan/8-4.html",
+		"/home/alberto/Desktop/web/django/cinesnub/templates/califas/new.html",
+		"/home/alberto/Desktop/web/flanagan/13-1.html",
+		"/home/alberto/Desktop/web/flanagan/13-4.html",
+		"/home/alberto/Desktop/web/flanagan/13-3.html",
+		"/home/alberto/Desktop/web/flanagan/13-2.html",
+		"/home/alberto/Desktop/web/css/positioning.html",
+		"/home/alberto/Desktop/web/flanagan/ch06.html",
+		"/home/alberto/Desktop/Python/Pygame/anew/drawing.py",
+		"/home/alberto/Desktop/Python/Pygame/anew/fonttext.py",
+		"/home/alberto/Desktop/web/flanagan/6-2.html",
+		"/home/alberto/Desktop/Python/Pygame/anew/catanimation.py",
+		"/home/alberto/Desktop/Python/Pygame/anew/helloworld.py",
+		"/home/alberto/Desktop/web/django/mysite/mysite/urls.py",
+		"/home/alberto/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/home/alberto/.config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/alberto/Desktop/web/django/tangodjango/tango/tango_with_django_project/tango_with_django_project/settings.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"configMap",
+			"chat",
+			"people_model",
+			"configMap",
+			"fake",
+			"spa.data",
+			"onTapToggle",
+			"set_chat_anchor",
+			"configMap.set_chat_anchor",
+			"set_chat_anchor",
+			"set_chat_anchor(",
+			"set_chat_anchor =",
+			"configMap.set_chat_anchor",
+			"configMap",
+			"configModule",
+			"set_chat_anchor",
+			"configModule",
+			"setChatAnchor",
+			"set_chat_anchor",
+			"configMap.set_chat_anchor",
+			"configMap",
+			"configMap.set_chat_anchor",
+			"set_chat_anchor =",
+			"onsetchatee",
+			"onheldendnav",
+			"onsetchatee",
+			"toggle",
+			"onTapToggle",
+			"Now chatting with",
+			"updatechat",
+			"listchange",
+			"leavechat",
+			"callback_map.updatechat",
+			"callback_map",
+			"callback_map.updatechat",
+			"callback_map",
+			"update",
+			"updatechat",
+			"hasclass",
+			"makeperson",
+			"onsetchatee",
+			"chatee",
+			"onSetchatee",
+			"toggle",
+			"comment",
+			"space",
+			"rule",
+			"line",
+			"wrap",
+			"complete",
+			"tab",
+			"aborts and",
+			"completeLogin",
+			"logout",
+			"makePerson",
+			"peopleList",
+			"get",
+			"getPeopleList",
+			"stateMap",
+			"spa-login",
+			"acct",
+			"jqueryMap",
+			"$acct",
+			"subscribe",
+			"console.log",
+			"alert",
+			"slider",
+			"configMap",
+			"configModule",
+			"Chat",
+			"position_type",
+			"anchor",
+			"uriAnchor",
+			"$container",
+			"configMap",
+			"removeSlider",
+			"setSliderPosition",
+			"configModule",
+			"anchor_map_proposed",
+			"anchor_map =",
+			"anchor_map",
+			"anchor_map =",
+			"anchor_map",
+			"stateMap",
+			"set_chat_anchor",
+			"configMap",
+			"hashchange",
+			"aqui",
+			"chat_extended_",
+			"chat_extended_height",
+			"chatExtendedHeight",
+			"return",
+			"onLoad",
+			"add_cat",
+			"category",
+			"DATABASE",
+			"STATICFILES_DIRS",
+			"category(",
+			"decode_url",
+			"fullname",
+			"alphabetic",
+			"inline",
+			"\">",
+			"hour",
+			"response",
+			"title",
+			"font-family",
+			";*/\n",
+			"purple",
+			"red",
+			"gardening",
+			"form",
+			"	\n",
+			"hello",
+			"formulario"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"add_director",
+			"director",
+			"alphanumeric",
+			"hours"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "search.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 80.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "migoogle.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/web/php/laravel/laracasts/mysite/jeffrey.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
